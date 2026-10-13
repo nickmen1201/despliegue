@@ -1,0 +1,13 @@
+{
+  "modelo": "Regresión Logística (class_weight=balanced)",
+  "umbral": 0.5,
+  "n_registros": 5110,
+  "metricas_test": {
+    "accuracy": 0.7417,
+    "balanced_accuracy": 0.763,
+    "recall_yes": 0.7867,
+    "precision_yes": 0.1344,
+    "f1_yes": 0.2296,
+    "auc": 0.8282
+  }
+}
